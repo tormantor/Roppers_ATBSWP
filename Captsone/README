@@ -1,1 +1,4 @@
-
+cap.py:  Run the file using "python cap.py". It does not accept any command line arguments.
+         Takes 6 .cfg files for each level of Overthewire Bandit challenge.
+         Creates a file called passwords.txt and adds the level name and its corresponding password to it.
+         
